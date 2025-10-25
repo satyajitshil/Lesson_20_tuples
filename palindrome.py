@@ -14,3 +14,4 @@ if palind(r):
     print(r, "is a palindrome")
 else:
     print(r, "isn\'t a palindrome")
+
